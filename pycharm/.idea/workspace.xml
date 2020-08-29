@@ -22,14 +22,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/democonvert" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\niket\pycharm\democonvert" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\niket\pycharm\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.recursionfactorial">
-    <configuration name="functInsideFunct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.usermodule">
+    <configuration name="customgenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lambdaFunctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/functInsideFunct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambdaFunctions/customgenerator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functionasParameter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="doubleDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lambdaFunctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/functionasParameter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambdaFunctions/doubleDecorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="passtypeinafunct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mymath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/passtypeinafunct.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mymath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursionfactorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stringDecorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lambdaFunctions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/recursionfactorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambdaFunctions/stringDecorator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="returnfunctioninfunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="usermodule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/returnfunctioninfunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usermodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,19 +162,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.python" />
-      <item itemvalue="Python.functInsideFunct" />
-      <item itemvalue="Python.functionasParameter" />
-      <item itemvalue="Python.returnfunctioninfunction" />
-      <item itemvalue="Python.passtypeinafunct" />
-      <item itemvalue="Python.recursionfactorial" />
+      <item itemvalue="Python.doubleDecorator" />
+      <item itemvalue="Python.stringDecorator" />
+      <item itemvalue="Python.customgenerator" />
+      <item itemvalue="Python.mymath" />
+      <item itemvalue="Python.usermodule" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recursionfactorial" />
-        <item itemvalue="Python.passtypeinafunct" />
-        <item itemvalue="Python.returnfunctioninfunction" />
-        <item itemvalue="Python.functionasParameter" />
-        <item itemvalue="Python.functInsideFunct" />
+        <item itemvalue="Python.usermodule" />
+        <item itemvalue="Python.mymath" />
+        <item itemvalue="Python.customgenerator" />
+        <item itemvalue="Python.stringDecorator" />
+        <item itemvalue="Python.doubleDecorator" />
       </list>
     </recent_temporary>
   </component>
@@ -195,22 +200,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="363" y="100" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1598684238633" />
-    <state width="1345" height="201" key="GridCell.Tab.0.bottom" timestamp="1598710335497">
+    <state width="1345" height="114" key="GridCell.Tab.0.bottom" timestamp="1598726172543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598710335497" />
-    <state width="1345" height="201" key="GridCell.Tab.0.center" timestamp="1598710335497">
+    <state width="1345" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598726172543" />
+    <state width="1345" height="114" key="GridCell.Tab.0.center" timestamp="1598726172542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598710335497" />
-    <state width="1345" height="201" key="GridCell.Tab.0.left" timestamp="1598710335497">
+    <state width="1345" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598726172542" />
+    <state width="1345" height="114" key="GridCell.Tab.0.left" timestamp="1598726172542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598710335497" />
-    <state width="1345" height="201" key="GridCell.Tab.0.right" timestamp="1598710335497">
+    <state width="1345" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598726172542" />
+    <state width="1345" height="114" key="GridCell.Tab.0.right" timestamp="1598726172543">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="201" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598710335497" />
+    <state width="1345" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598726172543" />
     <state width="1345" height="201" key="GridCell.Tab.1.bottom" timestamp="1598710335498">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -227,14 +232,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="201" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598710335498" />
-    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598710366008">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1598722805466">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598710366008" />
-    <state x="0" y="0" width="758" height="728" key="find.popup" timestamp="1598707014649">
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598722805466" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598722485783">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" width="758" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598707014649" />
+    <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598722485783" />
+    <state x="0" y="0" width="758" height="728" key="find.popup" timestamp="1598710763301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="758" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1598710763301" />
     <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1598688006347">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
